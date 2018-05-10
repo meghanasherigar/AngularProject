@@ -20,7 +20,6 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
     this.user = this.service.getData();
     this.service.setUserData(this.user);
-    console.log(this.user);
     this.service.getUsers().subscribe(data => {
       this.allUser = data;
     });
