@@ -1,0 +1,44 @@
+.loginForm{
+	color: white;
+    padding: 20px;
+    /* width: 94%; */
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+    /*background-image: url(images/banner3.jpg);*/
+    background-color: #d5d5ff;
+}
+
+.formElement .loginBtn {
+	display: block;
+	/*width: 53%;*/
+	padding: 8px 16px;
+	background: #20ce20;
+	border: none;
+	font-size: 18px;
+	border-radius: 5px;
+	color: white;
+    margin: auto;
+}
+input{
+	box-shadow: none;
+	padding: 8px 4px;
+	width: 100%;
+    font-size: 20px;
+	border-radius: 5px;
+	border: 1px solid #bcb3b3;
+	margin-bottom: 15px;
+}
+.loginBtn{
+     padding: 4px 24px;
+     border-radius: 4px;
+     font-size: 22px;
+     color: black;
+     background-color: #dddfe7;
+     border: none;
+}
+.loginForm label{
+    font-size: 20px;
+}

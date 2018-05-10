@@ -1,0 +1,184 @@
+[
+  {
+    "infrastructure": [
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image1.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image2.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image6.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image4.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image5.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image6.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image7.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image8.jpg"
+      },
+        {
+        "title": "Infrastruture Image ",
+        "url": "images/campus/image1.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/campus/image2.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/campus/image3.jpg"
+      },
+      {
+        "title": " Infrastruture Image ",
+        "url": "images/campus/image4.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/campus/image5.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/campus/image6.jpg"
+      }
+    ]
+  },
+  {
+    "campus": [
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image1.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image2.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image3.jpg"
+      },
+      {
+        "title": " Campus Image ",
+        "url": "images/campus/image4.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image5.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image6.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image7.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image8.jpg"
+      },
+        {
+         "title": "Campus Image ",
+        "url": "images/campus/image1.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image2.jpg"
+      },
+      {
+        "title": "Campus Image ",
+         "url": "images/infrastructure/image2.jpg"
+      },
+      {
+        "title": "Campus Image ",
+         "url": "images/infrastructure/image1.jpg"
+      },
+      {
+         "title": "Campus Image ",
+       "url": "images/infrastructure/image5.jpg"
+      },
+      {
+        "title": "Campus Image ",
+         "url": "images/infrastructure/image4.jpg"
+      }
+    ]
+  },
+  {
+    "annualGathering": [
+      {
+        "title": "AnnualGathering Image ",
+        "url": "images/annualGathering/image1.jpg"
+      },
+      {
+        "title": "AnnualGathering Image ",
+        "url": "images/annualGathering/image2.jpg"
+      },
+      {
+        "title": "AnnualGathering Image ",
+        "url": "images/annualGathering/image3.jpg"
+      },
+      {
+        "title": "AnnualGathering Image ",
+        "url": "images/annualGathering/image4.jpg"
+      },
+      {
+        "title": "AnnualGathering Image ",
+        "url": "images/annualGathering/image5.jpg"
+      },
+      {
+        "title": "AnnualGathering Image ",
+        "url": "images/annualGathering/image6.jpg"
+      },
+      {
+        "title": "AnnualGathering Image ",
+        "url": "images/annualGathering/image7.jpg"
+      },
+      {
+        "title": "AnnualGathering Image ",
+        "url": "images/annualGathering/image8.jpg"
+      },
+       {
+        "title": "Campus Image ",
+        "url": "images/campus/image1.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image2.jpg"
+      },
+      {
+        "title": "Campus Image ",
+        "url": "images/campus/image3.jpg"
+      }, 
+        {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image7.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image4.jpg"
+      },
+      {
+        "title": "Infrastruture Image ",
+        "url": "images/infrastructure/image5.jpg"
+      } 
+        
+        
+    ]
+  }
+]
